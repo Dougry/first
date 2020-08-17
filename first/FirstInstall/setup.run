@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -i 's/\r//' /opt/cm6firstinstall.sh && sh /opt/cm6firstinstall.sh
+
